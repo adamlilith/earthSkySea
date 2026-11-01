@@ -1,0 +1,9 @@
+---
+body-classes: home-page
+---
+
+::: {.home-hero}
+::: {.welcome-copy}
+Welcome to the Global Change Conservation lab at the Missouri Botanical Garden. We use quantitative tools to understand nature and support conservation in a changing world.
+:::
+:::

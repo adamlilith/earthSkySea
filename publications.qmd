@@ -1,0 +1,273 @@
+## Recent unpublished work
+
+**Is species distribution modeling converging as a field? Consensus and divergence among teams in a blinded experiment**  
+Thonis, A., Cavalieri, C.N., Morelli, T.L., Ashraf, U., Lee, A.K.C., Jiménez-Valverde, A., Zarzo-Arias, A., Ascanio, A., Kramer, A.M., Smith, A.M., Naimi, B., Rose, M.B., Ramirez-Reyes, C., Milburn, C., Zurell, D., Warren, D., Nemer, D., Wilkinson, D.P., Arlé, E., Lim, F.K.S., Owens, H.L., Ondo, I., Dahan, I., Kass, J.M., Franklin, J., Bracken, J., Svenning, J-C., Belmaker, J., Serra-Diaz, J.M., White, J.D.M., Zhu, K., Farleigh, K., Ash, L.V., Aguirre-Lopez, L.J., Pertierra, L.R., Ledger, M.J., Fitzpatrick, M.C., Nobis, M.P., Zimmermann, N.E., Hepner Ucko, O., Peña-Aguilera, P.O., Title, P., Aragón, P., Jinga, P., Brun, P., Valavi, R.M., Chefaoui, R.M., Mateo, R.G., Pienaar, R., Pironon, S., Velazco, S.J.E., Volkel, S., Leão, T., Jezkova, T., Bonebrake, T.C., Feng, X., Chen, X., Song, Y., **Smith**, A.B.
+
+**Phenological and stomatal responses of herbaceous plants to climate change since the 1800s** \[[open access preprint](<https://doi.org/10.32942/X2MM6P>)\]  
+Richardson\*, N., **Vilna-Santos**\*, L., **Cortes**\*\*, A., **Gaughan**, M.K., **Smith**, A.B., and Austin, M.W.  
+\* Undergraduate author. \*\* High school author.
+
+**Climate-smart wind energy development for North American bird conservation**  
+Ashraf, U., **Smith**, A.B., Hernandez, R.R., Bateman, B.L., Gedir, J.V, Grand, J., and Morelli, T.L
+
+**Leaf marcescence in woody plants is influenced by phylogeny, plant size, age, vertical stratification, and climate**  
+Austin, M., Panchen, Z., Corlett, R., Ahrendts, A., Brant, R., Fu, Y., Gröger, A., Hamid, M., Ahlstrand, N.I., Jung, M., Kim, H., Kleissenberg, N., Lautenschläger, T., Lee, S., Magee, G., McCormack, M.L., Nikitin, T., Nordt, B., Parolly, G., Rauschkolb, R., Reidy, B., Riehn, J., Rollinson, C., Römermann, C., Rosche, C., Shafee, F., Shah, M., Shearer, K., **Smith**, A.B., Son, S., Träger, S., Umazekabiri, R., Wirth, C., Primack, R.
+
+**Testing core vs. margin paradigms: Abundance, traits, and genetic patterns of a dominant grass across its broad range**  
+Sytsma, J., Johnson, L., Louthan, A., Newman, E., **Smith**, A.B., Winters, H., Galliart, M., Lee, S., Jumpponen, A., and Vogt, B.
+
+**Investigating patterns of density and distributional decline in a habitat specialist not experiencing physical-habitat loss, to inform conservation decisions**  
+Beever, E.A., Westover, M.L., **Smith**, A.B., Gerraty, F.D., Billman, P.D., and Smith, F.A.
+
+**Contrasting predictions from trailing-edge range dynamics and the theory of island biogeography: Climate drives patterns**  
+Westover, M.L., Beever, E.A., **Smith**, A.B., Gerraty, F.D., Billman, P.D., and Smith, F.A.
+
+## Published work
+
+**Effects of habitat complexity on urban bee occupancy eclipse those of urbanization and flower diversity** \[[article](<https://doi.org/10.1016/j.biocon.2026.111936>)\]  
+Pho\*, J., Davis\*, C., Kapp\*, C., Guerrero\*, E., Fogal, N.S., **Smith**, A.B., and Miller-Struttmann, N.E. 2026. _Biological Conservation_ 321:111936. \* Undergraduate authors
+
+* Covered by [Saint Louis Public Radio](<https://www.stlpr.org/health-science-environment/2026-07-29/st-louis-bees-messy-yards>) and [KMOX](<https://www.audacy.com/stations/kmox/shows/total-information-am-d5425/episodes/4d4085a8e434>) (interview starts at 8:09)
+
+**Practitioners’ perceptions of biodiversity-relevant criteria in solar suitability analyses** \[[open access](<https://doi.org/10.1038/s44185-026-00133-w>)\]  
+Condon, D., Levin, M., **Smith**, A.B., Morelli, T.L., Krasner, N.Z., Forester, E., Holmes, C., Narwold, B.P., Bateman, B.L., Kalies, E.L., Wu, G.C., Gade, M.R., Keys, R., Robinson, F., and Hernandez, R.R. 2026. _npj Biodiversity_ 5:24.
+
+**Prioritization of areas for conservation of oaks (Fagaceae: _Quercus_) across their global biodiversity hotspot based on richness, endemism, and introgression** \[[open access](<https://doi.org/10.1016/j.gecco.2026.e04251>)\]  
+Loza, M.I., Althaus, K., **Smith**, A.B., Cannon, C.H., Valencia-A., S., and Alvarez-Clare, S. 2026. _Global Ecology and Conservation_ 68:e04251.
+
+**Ten simple rules for mentoring and being mentored while neurodiverse** \[[open access](<https://doi.org/10.1371/journal.pcbi.1013917>)\]  
+**Smith**, A.B., Adams, E.G., **Abercrombie**, E., Bibi, N., Bottini, C.L.J., Brown, A.J., Cavalieri, C.N., Clauser, A.L., Duguid, M.C., Fowler-Finn, K., Hutchen, J., Jardim, V.L., Rodriguez, C.S., Swab, R.M. and Varghese, S. 2026. _Public_ _Library of Science Computational Biology_ 22:e1013917.
+
+**_fasterRaster_: GIS in _R_ using _GRASS_ for large vectors and rasters** \[[article](<https://doi.org/10.1111/tgis.70238>) | [open-access preprint](<https://eartharxiv.org/repository/view/10539/>) | [tutorial](<https://adamlilith.github.io/fasterRaster/index.html>) | [GitHub](<https://github.com/adamlilith/fasterRaster>)\]  
+**Smith**, A.B. 2026. _Transactions in GIS_ 30:e70238.
+
+**Ecological niche modeling reveals habitat differentiation and climatic vulnerability in two imperiled, sympatric southern Appalachian carnivorous plants** \[[article](<https://doi.org/10.1002/ajb2.70194>) | [open-access preprint](<https://doi.org/10.1101/2025.10.30.685572>)\]  
+Chang\*, N.J., Eserman, L., Carmichael, A., **Smith**, A.B., Loy, X., Coffey, E.E.D., and Ojascastro, J. 2026. _American Journal of Botany_ 113:e70194. \* Undergraduate researcher.
+
+**Lagged responses in the composition of small mammal communities to a century of climate change** \[[open access](<http://doi.org/10.1002/ecog.08010>)\]  
+**Abercrombie**, E., Myers, J., Usdin\*, R.L., and **Smith**, A.B. 2026. _Ecography_. 2026:e08010. \* Undergraduate researcher
+
+**Herbarium specimens reveal regional patterns of tallgrass prairie invasion and changing species abundance across 130 years** \[[open-access preprint](<https://doi.org/10.32942/X20S76>) | [article](<http://doi.org/10.1111/nph.70632>)\]  
+Austin, M.W., Kaul, A.D., **Smith**, A.B., Rothendler, M., and Primack, R.B. 2026. _New Phytologist_ 251:881-895.
+
+* Featured in _[State of the World’s Plants and Fungi 2026](<https://doi.org/10.34885/rdzs-ky83>)_ (Antonelli et al. 2026).
+
+* Part of virtual Joint Special Collection “Harnessing the benefits of specimen digitization” between _New Phytologist_ and _Plants, People, Planet_.
+
+**Informal research networks of botanical gardens** \[[open access](<https://www.bgci.org/wp/wp-content/uploads/2025/08/BGjournal-22.1-reduced.pdf>)\]  
+Primack, R.B., Austin, M.W., Corlett, R.T., Panchen, Z.A., Gröger, A., Fu, Y.H., Nordt, B., Parolly, G., Lee, S., Rauschkolb, R., Römermann, C., Träger, S., Umazekabiri, R., Wirth, C., Kim, H., Son, S., Rosche, C., Brant, R.A., Riehn, J.K., **Smith**, A.B., McCormack, M.L., Nikitin, T., Reidy, B.C., Rollinson, C.R., Shearer, K., Iwanycki Ahlstrand, N., Jung, M., Kleissenberg, N., Lautenschläger, T., Shah, M.A. 2025. _BGjournal_ 22:10-14.
+
+**Bibliographic synthesis of biodiversity-relevant criteria for solar energy siting** \[[open access](<https://doi.org/10.1016/j.rser.2025.116026>)\]  
+Levin, M., Condon, D., Krasner, N.Z., Forester, E., Holmes, C.C., Bateman, B.L., Delach, A., Ennen, J.R., Kalies, E.L., Kays, R., Lovich, J.E., **Smith**, A.B., Wu, G.C., and Hernandez, R.R. _Renewable & Sustainable Energy Reviews_ 223:116026.
+
+**The next stage of biodiversity informatics: Community-driven synthesis and integration of biodiversity databases** \[[open access](<https://doi.org/10.1093/biosci/biaf112>)\]  
+Feng, X., **Smith**, A.B., Boyle, B., Chen, X., Enquist, B.J., Gallagher, R., Hammock, J., Ho, J.C., Lien, A.M., Maitner, B., Sokol, E.R., Soltis, P., Wenk, E.H., Willoughby, A., and Park, D.S. 2025. _BioScience_ 75:913-925.
+
+**Expanding barriers: Impassable gaps interior to distribution of an isolated mountain-dwelling species** \[[open access](<https://doi.org/10.1002/ecs2.70223>)\]  
+Beever, E.A., **Smith**, A.B., Wright, D. Rickman, T., Gerraty, F.A., Stewart, J.A.E., Gill, A., Klinger, K., and Robinson, M. 2025. _Ecosphere_ 16:e70223.
+
+**Practitioners’ perceived risks to biodiversity from renewable energy expansion through 2050** \[[open access](<https://doi.org/10.1057/s41599-025-04558-9>)\]  
+Condon, D., Scott, T.A., **Smith**, A.B., Morelli, T.L., Ashraf, U., Mojica, A., Chittanuru, H., Luu, R., Bear, R., and Hernandez, R.R. 2025. _Humanities and Social Sciences Communication_ 12:263.
+
+**Combining past and contemporary species occurrences with ordinal species distribution modeling to investigate responses to climate chang**e \[[open access](<https://doi.org/10.1111/ecog.07382>) | [issue cover](<https://www.ecography.org/content/february-2025>)\]  
+Beever, E.A., Westover, M., **Smith**, A.B., Gerraty, F., Billman, P., and Smith, F. 2025. _Ecography_ 2025:e07382.
+
+* Covered by [Buckrail](<http://new%20pika%20research%20suggests%20snowpack%20could%20be%20top%20predictor%20for%20occurrence/>).
+
+**Achieving higher standards in species distribution modeling by leveraging the diversity of available software** \[[open access](<https://doi.org/10.1111/ecog.07346>) | [eco:tone pod:cast](<https://drive.google.com/open?id=1sMEe8D_y4vXR7U3_WdjIqR2O0Uu6Ghr2&usp=drive_fs>)\]  
+Kass, J.M., **Smith**, A.B., Warren, D.L., Vignali, S., Schmitt, S., Aiello-Lammens, M.E., de Andrade, A.F.A., Arlé, E., Barbosa, A.M., Broennimann, O., Cobos, M.E., Guéguen, M., Guisan, A., Merow, C., Naimi, B., Nenzén, H., Nobis, M.P., Ondo, I., Osorio-Olvera, L., Owens, H.L., Pinilla-Buitrago, G., Robertson, M., Sánchez-Tapia, A., Thuiller, W., Valavi R., Velazco, S.J.E., Zizka, A., and Zurrell, D. 2025. _Ecography_ 2025:07346.
+
+* Among top 10 most cited works published in _Ecography_ in 2024.
+
+**Climate-smart siting for renewable energy expansion** \[[open access](<https://www.sciencedirect.com/science/article/pii/S2589004224018911>) | [eco:tone pod:cast](<https://drive.google.com/open?id=1f8Kscwe_DzcAQdi-0k27DxfZtdKzAM3x&usp=drive_fs>)\]  
+Ashraf, U., **Smith**, A.B., Morelli, T.L., and Hernandez, R.R. 2024. _iScience_ 27:110666.
+
+**Climate change increases flowering duration, driving phenological reassembly and elevated co-flowering richness** \[[article](<https://doi.org/10.1111/nph.19994>)\]  
+**Austin**, M.W., **Smith**, A.B., Olsen, K.M., Hoch, P.C., Krakos, K.N., Schmocker, S.P., and Miller-Struttmann, N.E. 2024. _New Phytologist_ 243:2486-2500.
+
+**Integrating genomic data and simulations to evaluate alternative species distribution models and improve confidence in predictions of glacial refugia and future responses to climate change** \[[open access](<https://doi.org/10.1111/ecog.07196>) | [eco:tone pod:cast](<https://drive.google.com/open?id=1OX4tQZUZbhA3A0UqyOrKC5ri3rOwEk4R&usp=drive_fs>)\]  
+Naughtin, S., Castilla, A.R., **Smith**, A.B., Strand, A.E., Dawson, A., Hoban, S., Abhainn, E.A., Romero-Severson, J., and Robinson, J.D. 2025. _Ecography_ 2025:e07196.
+
+**Aligning renewable energy expansion with climate-driven range shifts** \[[article](<https://doi.org/10.1038/s41558-024-01941-3>) & [correction](<https://doi.org/10.1038/s41558-024-02216-7>) | [summary](<https://communities.springernature.com/posts/bridging-the-gap-renewable-energy-expansion-with-climate-driven-species-range-shifts>)\]  
+Ashraf, U., Morelli, T.L., **Smith**, A.B., and Hernandez, R.R. 2024. _Nature Climate Change_ 24:242-246.
+
+**Integrative demographic modeling reduces uncertainty in estimated rates of species’ historical range shifts** \[[open access](<https://doi.org/10.1111/jbi.14754>) | [eco:tone pod:cast](<https://drive.google.com/open?id=1Ozqeh9hBEuQqPmUzksoyu_-ei8xQNFWV&usp=drive_fs>)\]  
+Castilla A.R., A. Brown, S. Hoban, E.A. Abhainn, J.D. Robinson, J. Romero-Severson, A.B. **Smith**, A.E. Strand, J.R. Tipton, and A. Dawson. 2024. _Journal of Biogeography_ 51:325-336.
+
+**Beyond climate? Factors determining fruiting and flowering phenology across a genus over 117 years** \[[open access](<https://doi.org/10.1002/ajb2.16188>)\]  
+**Bartlett\***, K., **Austin**, M.A., Beck, J., Zanne†, A., and **Smith**†, A.B. 2023. _American Journal of Botany_ 110:e16188. \* Undergraduate author. † Co-senior authors.
+
+* Subject of [mini-documentary](<https://hecmedia.org/posts/climate-and-wildflowers-leavenworthia-study-sheds-light-on-roles-of-climate-change-and-conservation>) by HEC Media.
+
+* [Highlighted](<https://bsapubs.onlinelibrary.wiley.com/hub/journal/15372197/homepage/journal-highlights>) by the _American Journal of Botany_.
+
+* Washington University in Saint Louis’ [press release](<https://source.wustl.edu/2023/06/missouri-native-is-flowering-earlier-due-to-climate-change/>).
+
+**Modeling the rarest of the rare: A comparison between multi-species distribution models, ensembles of small models, and single-species models at extremely low sample sizes** \[[open access](<https://dx.doi.org/10.1111/ecog.06500>) | [eco:tone pod:cast](<https://drive.google.com/open?id=1OZYJu1Yk4KUHwy-drcobXczgfatw1L1R&usp=drive_fs>)\]  
+**Erickson**, K.D. and **Smith**, A.B. 2023. _Ecography_ 2023:e06500.
+
+* Among top 10 [most cited](<https://drive.google.com/file/d/1XTVhMGd5aznJ38eVnZ2VMuSZxxt2vOZg/view?usp=sharing>) works published in _Ecography_ in 2023.
+
+**Geographic and taxonomic variation in adaptive capacity among mountain-dwelling small mammals: implications for conservation status and actions** \[[open access](<https://doi.org/10.1016/j.biocon.2023.109942>)\]  
+Beever, E.A., Wilkening, J.L., Billman, P., Thurman, L., Ernest, K., Wright, D., Gill, A, Craighead, A., Helmstetter, N.A., Svancara, L.K., Camp, M.J., Bhattacharyya, S., Fitzgerald, J., Hirose, J.M.R., Westover, M., Gerraty, F., Klingler, K., Schmidt, D.A., Ryals, D.,. Brown, R., Clark, S., Clayton, N. Collins, G., Cutting, K., Doak, D., Epps, C.W., Foley, J., French, J. Hayes, C.L., Mills, Z., Moyer-Horner, L., Nichols, L., Orlofsky, K., Peacock, M., Penzel, N. Peterson, J., Ramsay, N., Rickman, T., Robinson, M., Robison, H. Rowe, K., Rowe, K., Russello, M., **Smith**, A.B., Stewart, J.E.A., Thompson, W., Thorne, J.H., Watterhouse, M., Weber, S., and Wilson, K. 2023. _Biological Conservation_ 282:109942.
+
+**Including imprecisely georeferenced specimens improves accuracy of species distribution models and estimates of niche breadth** \[[article](<https://dx.doi.org/10.1111/geb.13628>) | [open-access preprint](<https://doi.org/10.1101/2021.06.10.447988>)\]  
+**Smith**, A.B., **Murphy**, S.J., **Henderson**, D., and **Erickson**, K.D. 2023. _Global Ecology and Biogeography_ 32:342-255.
+
+* Among top 10 [most cited](<https://drive.google.com/open?id=1BS9leFfbxK1wfypBANe8B4kwCsOShrWR&usp=drive_fs>) works published in _Global Ecology & Biogeography_ in 2023.
+
+**Climate change is associated with increased allocation to potential outcrossing in a common mixed mating species** \[[article](<https://doi.org/10.1002/ajb2.16021>)\]  
+**Austin, M.A.**, **Cole\*, P.**, Olsen, K., and **Smith**, A.B. 2022. _American Journal of Botany_ 109:1085-1096. \* Undergraduate author.
+
+* [Highlighted](<https://doi.org/10.1002/ajb2.16031>) by _The American Journal of Botany._
+
+* Covered by [USA Today](<https://www.usatoday.com/story/news/2023/03/09/early-spring-2023-flower-blooms-show-climate-change-impact/11373671002/>), [_St. Louis Post Dispatch_](<https://www.stltoday.com/lifestyles/home-and-garden/study-climate-change-improves-violet-blooms-but-there-s-a-hitch/article_a1e836f5-376a-5fb9-859a-7de13d26309f.html#tracking-source=home-top-story>), Missouri Botanical Garden’s [_Discover & Share_](<https://discoverandshare.org/2022/06/16/climate-change-and-common-violets/>), St. Louis’s [FOX2](<https://fox2now.com/news/weather/small-flowers-focus-of-big-climate-research-at-missouri-botanical-garden/>), and Washington University in Saint Louis’s [Climate Change Program](<https://climatechange.wustl.edu/items/6684/>).
+
+**Reciprocal gardens as gold standard to detect local adaptation in grassland species: New opportunities moving into the 21st century** \[[open access](<https://dx.doi.org/10.1111/1365-2745.13695>)\]  
+Johnson, L., Galliart, M., Alsdurf, J., Maricle, B.R., Baer, S.G., Bello, N.M., Gibson, D.J., and **Smith**, A.B. 2022. _Journal of Ecology_ 110:1054-1071.
+
+* Included in the British Ecological Society’s [Key Concepts in Ecology](<https://www.britishecologicalsociety.org/content/key-concepts-in-ecology/>) reading list under the topic “[Adaptations to variable environments](<https://methodsblog.com/2024/01/17/ikey-concepts-in-ecology-i-adaptations-to-variable-environments/>)”.
+
+* Recognized as one of _Journal of Ecology_’s Top Cited Articles published in 2022-2023.
+
+**What can community ecology learn from species distribution models?** \[[open access](<https://doi.org/10.1002/ecs2.3864>) | [eco:tone pod:cast](<https://drive.google.com/open?id=1OgWpLtV8fOKAVOlui01edJywIRse71Vh&usp=drive_fs>)\]  
+**Murphy**, S.J. and **Smith**, A.B. 2021. _Ecosphere_ 12:e03864.
+
+* One of _Ecosphere_’s most downloaded papers in the 12 months after publication.
+
+**Accounting for imperfect detection in data from museums and herbaria when modeling species distributions: Combining and contrasting data-level versus model-level bias correction** \[[open access](<https://dx.doi.org/10.1111/ecog.05679>) | [eco:tone pod:cast](<https://drive.google.com/open?id=1OzKPw0L90_Wmud5nVQ5rfOBvipexT3bs&usp=drive_fs>)\]  
+**Erickson**, K.D. and **Smith**, A.B. 2021. _Ecography_ 44:1341-1352.
+
+**The role of land use and land cover change in climate change vulnerability assessments of biodiversity: A systematic review** \[[open access](<https://dx.doi.org/10.1007/s10980-021-01276-w>)\]  
+Santos\*, M.J., **Smith**\*, A.B., Dekker, S.C., Eppinga, M.B., Leitão, P.J., Moreno-Mateo, D., Morueta-Holme, N., and Ruggieri, M. 2021. _Landscape Ecology_ 36:3367-3382. \* Equal contribution.
+
+* [Honorable Mention](<https://www.springer.com/journal/10980/updates/18953456>) for _Landscape Ecology_’s Best Article of 2021.
+
+**The phylogeographic history of a range disjunction in eastern North America: the role of post-glacial expansion into newly suitable habitat** \[[article](<https://doi.org/10.1002/ajb2.1686>)\]  
+Mohn, R.A., Oleas, N.H., **Smith**, A.B., Swift, J.F., Yatskievych, G., and Edwards, C. 2021. _American Journal of Botany_ 108:1042-1057.
+
+* Highlighted as a noteworthy article by _American Journal of Botany_ (doi: [10.1002/ajb2.1690](<https://doi.org/10.1002/ajb2.1690>))
+
+**Testing the ability of species distribution models to infer variable importance** \[[open access](<https://doi.org/10.1111/ecog.05317>)\]  
+**Smith**, A.B., and Santos, M.J. 2020. _Ecography_ 43:1801-1813.
+
+**The fate of Madagascar’s rainforest habitat** \[[article](<https://doi.org/10.1038/s41558-019-0647-x>)\]  
+Morelli\*, T.L., **Smith\***, A.B., Mancini, A.N., Balko, E.A., Borgerson, C., Dolch, R., Farris, Z., Federman, S., Golden, C.D., Holmes, S.M., Irwin, M., Jacobs, R.L., Johnson, S., King, T., Lehman, S.M., Louis Jr., E.E., Murphy, A., Randriahaingo, H.N.T., Randrianarimanana, H.L.Lucien, Ratsimbazafy, J., Razafindratsima, O.H., Baden, A.L. 2020. _Nature Climate Change_ 10:89-96. \* Equal contribution.
+
+* Covered by [_National Geographic_](<https://www.nationalgeographic.com/animals/2019/12/lemurs-madagascar-climate-change-deforestation/>), [_The New York Times_](<https://www.nytimes.com/2020/10/26/science/madagascar-lemurs-climate-change.html>), [_The Washington Post_](<https://www.washingtonpost.com/science/madagascars-lemurs-face-a-grim-future-because-of-human-activity-a-solution-planting-trees/2020/01/03/85c1d8aa-2b5a-11ea-bcd4-24597950008f_story.html?arc404=true>), [_The Conversation_](<https://theconversation.com/lemurs-are-the-worlds-most-endangered-mammals-but-planting-trees-can-help-save-them-127878>), [_ScienceDaily_](<https://www.sciencedaily.com/releases/2019/12/191223122855.htm>),and[EurekAlert!](<https://www.eurekalert.org/pub_releases/2019-12/uoma-ccn121819.php>), amongst others_._
+
+**Inference of biogeographic history by formally integrating distinct lines of evidence: Genetic, environmental niche, and fossil** \[[open access](<https://doi.org/10.1111/ecog.04327>)\]  
+Hoban, S., Dawson, A. Robinson, J., **Smith, A.B.**, Strand, A. 2019. _Ecography_ 42:1991-2011.
+
+* Runner-up article for _Ecography_’s annual E4 Award.
+
+**Alternatives to genetic affinity as a context for within-species response to climate** \[[article](<https://doi.org/10.1038/s41558-019-0584-8>)\]  
+**Smith**, A.B., Beever, E.A., Kessler, A.E., Johnston, A.N., Ray, C., Epps, C.W., Lanier, H.C., Klinger, R.C., Rodhouse, T.J., Varner, J., Perrine, J., Seglund, A., Hall, E., Galbreath, K., Anderson, C., Billman, P., Blatz, G., Brewer, J., Vardaro, J.C., Chalfoun, A.D., Collins, G., Craighead, A., Curlis, C., Daly, C., Doak, D.F., East, M., Edwards, M., Erb, L., Ernest, K.A., Fauver, B., Foresman, K., Goehring, K., Hagar, J., Hayes, C.L., Henry, P., Hersey, K., Hilty, S.L., Jacobson, J., Jeffress, M.R., Manning, T.E., Masching, A., Maxwell, B., McCollough, R., McFarland, C., Miskow, E., Morelli, T,L., Moyer-Horner, L., Mueller, M., Nugent, M., Pratt, B., Rasmussen-Flores, M., Rickman, T.H., Robison, H., Rodriguez, A., Rowe, K.M.C., Rowe, K.C., Russello, M.A., Saab, V., Schmidt, A., Stewart, J.A.E., Stuart, J.N., Svancara, L.K., Thompson, W., Timmins, J., Treinish, G., Waterhouse, M.D., Westover, M.K., Wilkening, J., and Yandow, L. 2019. _Nature Climate Change_ 9:787-794.
+
+* Cover story for _Nature Climate Change_ Volume 9 Issue 10.
+
+* Highlighted in editorial feature by Goldfather, M.F. 2019. Ecoregion shapes the range response. _Nature Climate Change_ 9:730-731.
+
+* [Shortlisted](<https://wildlife.org/2020-tws-wildlife-publication-awards-committee-shortlists-announced/>) for The Wildlife Society’s Wildlife Publication Awards 2020.
+
+* Covered by popular science websites including [PBS NOVA](<https://www.pbs.org/wgbh/nova/article/american-pika-climate-change-ecoregion/>), [SciGlow](<https://sciglow.com/biology/geography-not-genetics-influences-the-american-pikas-response-to-climate/>), [The Scientist](<https://www.the-scientist.com/image-of-the-day/image-of-the-day--pika-populations-66480>), and [PHYS.ORG](<https://phys.org/news/2019-09-geography-genetics-american-pika-response.html>).
+
+**Niche estimation above and below the species level** \[[article](<https://doi.org/10.1016/j.tree.2018.10.012>)\]  
+**Smith**, A.B., Godsoe, W., Rodríguez-Sánchez, F., Wang, H-H., and Warren, D. 2019. _Trends in Ecology and Evolution_ 34:260-273.
+
+* Reviewed by Faculty of 1000.
+
+**Local adaptation, genetic divergence, and experimental natural selection in a foundation grass across the US Great Plains’ climate gradient** \[[article](<https://doi.org/10.1111/gcb.14534>)\]  
+Galliart, M., Bello, N., Knapp, M., Poland, J., St. Amand, P., Baer, S., Maricle, B., **Smith**, A.B., and Johnson, L.J. 2019. _Global Change Biology_ 25:850-868.
+
+**Conservation status and threat assessments for North American crop wild relatives** \[[chapter](<https://doi.org/10.1007/978-3-319-95101-0_7>)\]  
+Frances, A., **Smith**, A.B., and Khoury, C. 2018. Pp. 189-208 in Greene S., Williams K., Khoury C., Kantar M., Marek L. (eds.) _North American Crop Wild Relatives: Conservation and Use, Volume 1_. (Springer, New York).
+
+**Up-scaling biodiversity: Estimating the species-area relationship from small samples** \[[open access](<https://doi.org/10.1002/ecm.1284>)\]  
+Kunin, W.E., Harte, J., He, Fangliang, Hui, C., Jobe, R.T., Ostling, A., Polce, C., Šizling, A., **Smith**, A.B., Smith, Krister, Smart, S.M., Storch, D., Tjørve, E., Ugland, K-I., Ulrich, W., and Varma, V. 2018. _Ecological Monographs_ 88:170-187.
+
+**The relative influence of change in habitat and climate on elevation range limits in small mammals in Yosemite National Park, California, U.S.A.** \[[open access](<https://doi.org/10.1186/s40665-017-0035-6>)\]  
+Santos, M.J., **Smith**, A.B., Thorne, J.H., and Moritz, C. 2017. _Climate Change Responses_ 4:7.
+
+**The global wildlife footprint: linking biodiversity loss to economic consumption** \[[open access](<https://doi.org/10.1111/con4.12321>)\]  
+Kitzes, J., Berlow, E., Conlisk, E., Erb, K., Ihara, K., Martinez, N., Newman, E., Plutzar, C., **Smith**, A.B., and Harte, J_._ 2016. _Conservation Letters_ 10:531-538_._
+
+**Phenotypic distribution models corroborate species distribution models: A shift in the role and prevalence of a dominant prairie grass in response to climate change** \[[article](<https://doi.org/10.1111/gcb.13666>)\]  
+**Smith**, A.B., Alsdurf, J., Knapp, M. and Johnson, L.C. 2017. _Global Change Biology_ 23:4365-4375.
+
+* Covered by at least 94 media outlets with a combined subscription/listener/watcher base of 78 million, including [The San Francisco Chronicle](<http://www.sfchronicle.com/news/article/Climate-change-may-erode-key-Kansas-tall-forage-12279817.php>), [The Seattle Times](<https://www.seattletimes.com/nation-world/researchers-climate-change-could-shorten-kansas-tallgrass/>), [US News and World Report](<https://www.usnews.com/news/best-states/kansas/articles/2017-10-16/researchers-climate-change-could-shorten-kansas-tallgrass>), [The Topeka Capital Journal](<http://cjonline.com/state-government/education/news/2017-10-12/k-state-research-climate-change-may-erode-size-key>), [The Manhattan Mercury](<http://themercury.com/news/local/climate-change-predicted-to-reduce-size-stature-of-big-bluestem/article_17c5ce62-ff2e-54d4-a5f7-1e3cf5936718.html>), and numerous other regional newspapers, radio stations (e.g., [KWMU 90.7](<http://news.stlpublicradio.org/post/missouri-botanical-garden-research-foresees-shorter-prairies-due-climate-change>)), TV stations (e.g., [KWCH12](<http://www.kwch.com/content/news/Climate-change-may-erode-key-Kansas-tall-forage-grass-451005043.html>)), and science and environmental news websites (e.g., [Science News Online](<http://www.sciencenewsline.com/news/2017101115440024.html>) and [NRDC](<https://www.nrdc.org/stories/climate-change-may-bring-big-trouble-big-bluestems-and-cattle-love-them>))
+
+**A systematic assessment of threats affecting the rare plants of the United States** \[[article](<https://doi.org/10.1016/j.biocon.2016.10.009>)\]  
+Hernández-Yáñez, H., Kos, J.T., Bast, M.D., Griggs, J.L., Hage, P.A., Killian, A., Whitmore, M.B., Loza, M. L., **Smith**, A.B. 2016. _Biological Conservation_ 203:260-267.
+
+* Covered by St. Louis Public Radio KWMU 90.7 (20 October 2016).
+
+* [Featured on Inside Science](<https://www.insidescience.org/news/nature-lovers-may-risk-loving-nature-death>) (3 November 2016).
+
+**Life at the top: Long-term demography, microclimatic refugia, and responses to climate change for a high-elevation southern Appalachian endemic plant** \[[article](<https://doi.org/10.1016/j.biocon.2016.05.028>)\]  
+Ulrey, C., Quiantana-Ascencio, P.F., Kauffman, G., **Smith**, A.B., and Menges, E.S. 2016. _Biological Conservation_ 200:80-92.
+
+**Shifting targets: Spatial priorities for _ex situ_ plant conservation depend on interactions between current threats, climate change, and uncertainty** \[[article](<https://doi.org/10.1007/s10531-016-1097-7>)\]  
+**Smith**, A.B., Long, Q.G., and Albrecht, M.A. 2016. _Biodiversity & Conservation_ 25:905-922.
+
+**Delineating probabilistic species pools in ecology and biogeography** \[[open access](<https://doi.org/10.1111/geb.12422>)\]  
+Karger, D.N., Cord, A.F., Kessler, M., Kreft, H., Kühn, I., Pompe, S., Sandel, B., Cabral, J.S., **Smith**, A.B., Svenning, J-C., Tuomisto, H., Weigelt, P., and Wesche, K. 2016. _Global Ecology & Biogeography_ 25:489-501.
+
+**Evaluation of species distribution models by resampling of sites surveyed a century ago by Joseph Grinnell** \[[afree to read](<https://doi.org/10.1111/j.1600-0587.2013.00107.x>)\]  
+**Smith**, A.B., M.J. Santos, M.S. Koo, K.C. Rowe, K.M.C. Rowe, J.L. Patton, S. Beissinger, and C. Moritz. 2013. _Ecography_ 36:1017-1031.
+
+**On evaluating species distribution models with random background sites in place of absences when test presences disproportionately sample suitable habitat** \[[open access](<https://doi.org/10.1111/ddi.12031>)\]  
+**Smith**, A.B. 2013. _Diversity & Distributions_ 19:867-872.
+
+**The relative influence of temperature, moisture, and their interaction on range limits of mammals over the past century** \[[article](<https://doi.org/10.1111/j.1466-8238.2012.00785.x>)\]  
+**Smith**, A.B. 2013. _Global Ecology & Biogeography_ 22:334-343.
+
+**Characterizing scale-dependent community assembly using the functional-diversity–area relationship** \[[article](<https://doi.org/10.1890/12-2109.1>)\]  
+**Smith**, A.B., B. Sandel, N. Kraft, and S. Carey. 2013. _Ecology_ 94:2392-2402.
+
+**Anthropogenic refugia ameliorate the severe climate-correlated decline of a montane mammal along its trailing edge** \[[open access](<https://doi.org/10.1098/rspb.2012.1301>)\]  
+Morelli, T.L., A.B. **Smith**, C. Kastely, I. Mastroserio, C. Moritz, and S. Beissinger. 2012. _Proceedings of the Royal Society of London B_ 279:4279-4286.
+
+* Covered by: _Science_, _Conservation Magazine_, _Science Daily_, _Grist_, and _Futurity_.
+
+**Approaching a state-shift in Earth’s biosphere** \[[article](<https://doi.org/10.1038/nature11018>)\]  
+Barnosky, A.D, E.A. Hadly, J. Bascompte, E.L. Berlow, J.H. Brown, M. Fortelius, W.M. Getz, J. Harte, A. Hastings, P.A. Marquet, N.D. Martinez, A. Mooers, P. Roopnarine, G. Vermeij, J.W. Williams, R. Gillespie, J. Kitzes, C. Marshall, N. Matzke, D.P. Mindell, E. Revilla, A.B. **Smith**. 2012. _Nature_ 486:52-58.
+
+* Altmetric: Top 1% of articles of the same age (as of December 2020).
+
+* Served as basis for [_Scientific Consensus on Maintaining Humanity’s Life Support Systems in the 21st Century_](<https://doi.org/10.1177%2F2053019613516290>), a policy statement signed by >3400 scientists, presented to the US White House Staff, Secretary of State John Kerry, President Xi Jinping (China), Governor Ichiro Matsui (Osaka, Japan), Energy & Climate Change Minister Gregory Barker, (United Kingdom), Governor Eruviel Avila (Mexico), Right Honourable Datuk Seri Panglima Musa Haji Aman (Minister of Sabah, Malaysia), and others.
+
+* Served as basis of policy brief requested by Governor Jerry Brown (California). Served as supporting document for MOU on climate change between China’s National Development and Reform Commission and California.
+
+* Covered widely in the national and international press, including [_The_ _New York Times_](<https://green.blogs.nytimes.com/2012/06/06/are-we-nearing-a-planetary-boundary/>), [_BBC World News_](<http://www.bbc.co.uk/news/science-environment-18339905>), [_Los Angeles Times_](<http://articles.latimes.com/2012/jun/07/local/la-me-0607-global-tipping-20120607>), [WIRED](<http://www.wired.com/wiredscience/2012/06/earth-tipping-point/>), and [Bill Moyers](<http://billmoyers.com/segment/bill-moyers-essay-letting-down-the-next-generation/>); critiqued in [_Al Jazeera_](<http://billmoyers.com/segment/bill-moyers-essay-letting-down-the-next-generation/>) op-ed.
+
+* Subject of documentary [_Demain_](<https://www.youtube.com/watch?v=NUN0QxRB7e0>) (released as [_Tomorrow_](<http://www.demain-lefilm.com/en>) in English) by Mélanie Laurent and Cyril Dion, shown in public theaters and UNFCCC COP21, UNESCO, and other diplomatic venues.
+
+* Reviewed by Faculty of 1000.
+
+* Used as basis for Consortium for Mathematics’ 2013 Contest in Modeling.
+
+**Caution with curves: Caveats for using the species-area relationship in conservation** \[[article](<https://doi.org/10.1016/j.biocon.2009.11.003>)\]  
+**Smith**, A.B. 2010. _Biological Conservation_ 143:555-564.
+
+**Biodiversity scales from plots to biomes with a universal species-area curve** \[[article](<https://doi.org/10.1111/j.1461-0248.2009.01328.x>)\]  
+Harte, J., A.B. **Smith**, and D. Storch. 2009. _Ecology Letters_ 12:798-797.
+
+**Scale as a lurking factor: Incorporating scale-dependence in experimental ecology** \[[article](<https://doi.org/10.1111/j.1600-0706.2009.17421.x>)\]  
+Sandel, B. and A.B. **Smith**. 2009. _Oikos_ 118:1284-1291.
+
+**Maximum entropy and the state variable approach to macroecology** \[[article](<https://doi.org/10.1890/07-1369.1>)\]  
+Harte, J., Z.T. Zillo, E. Conlisk, and A.B. **Smith**. 2008. _Ecology_ 89:2700-2711.
+
+* Reviewed by Faculty of 1000 (two recommendations).
+
+**The debt of nations and the distribution of ecological impacts from human activities** \[[article](<https://doi.org/10.1073/pnas.0709562104>)\]  
+Srinivasan, U.T., S.P. Carey, E. Hallstein, P.A.T. Higgins, A.C. Kerr, L.E. Koteen, A.B. **Smith**, R. Watson, J. Harte, and R.B. Norgaard. 2008. _Proceedings of the National Academy of Sciences USA_ 105:1768-1773.
+
+* Covered by _Nature_, _The Guardian_, and _Monga Bay_.
+
+**A theory of spatial structure in ecological communities at multiple spatial scales** \[[article](<https://doi.org/10.1890/04-1388>)\]  
+Harte, J., E. Conlisk, A. Ostling, J.L. Green, A.B. **Smith**. 2005. _Ecological Monographs_ 75:179-197.
+
+**Should we expect population thresholds for wildlife disease?** \[[article](<https://doi.org/10.1016/j.tree.2005.07.004>)\]  
+Lloyd-Smith, J.O., P.C. Cross, C.J. Briggs, M. Daugherty, W.M. Getz, J. Latto, M.S. Sanchez, A.B. **Smith**, and A. Swei. 2005. _Trends in Ecology & Evolution_ 20:511-519.

@@ -1,0 +1,23 @@
+project:
+  type: website
+  resources:
+    - images/yellowstone_blue.jpg
+    - images/shaw_nature_reserve.JPG
+
+website:
+  title: "The Global Change Conservation Lab<br>at the Missouri Botanical Garden"
+  navbar:
+    left:
+      - href: people.qmd
+        text: People
+      - href: mentoring.qmd
+        text: Mentoring
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: tools_and_data.qmd
+        text: Tools & Data
+format:
+  html:
+    theme: styles.scss

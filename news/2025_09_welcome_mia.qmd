@@ -1,0 +1,16 @@
+---
+title: "Welcome, Mia!"
+date: 2026-09-30
+draft: false
+---
+:::: {.news-item-layout}
+::: {.news-item-text}
+
+Welcome to Mia Gaughan, the newest member of the lab! Mia comes with diverse research experience and a wealth of time in herbaria. Broadly interested in herbivory and herbivory defense, Mia is pursuing a PhD at Washington University in Saint Louis.
+:::
+
+::: {.news-item-image}
+
+[![](../images/people/mia_gaughan.jpg){.img-fluid .rounded}]
+:::
+::::
