@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -40,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-74acbbba3813437a246b597b1ba95be2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b93309b8c971c0d2bb32eab9b95706c3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,7 +70,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-latest-news .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-latest-news'] = new List('listing-latest-news', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -128,10 +188,90 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="home-hero">
+<div class="columns">
+<div class="column" style="width:30%;">
 <div class="welcome-copy">
 <p>Welcome to the Global Change Conservation lab at the Missouri Botanical Garden. We use quantitative tools to understand nature and support conservation in a changing world.</p>
 </div>
+</div><div class="column" style="width:30%;">
+<section id="news" class="level2">
+<h2 class="anchored" data-anchor-id="news">News</h2>
+<div id="listing-latest-news" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1790744400000" data-listing-file-modified-sort="1793585464003" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
+<div class="thumbnail"><a href="./news/2025_09_welcome_mia.html" class="no-external">
+
+<p class="card-img-top"><img src="images\people\mia_gaughan.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./news/2025_09_welcome_mia.html" class="no-external">Welcome, Mia!</a>
+</h3>
+<div class="delink listing-description"><a href="./news/2025_09_welcome_mia.html" class="no-external">
+Welcome to Mia Gaughan, the newest member of the lab! Mia comes with diverse research experience and a wealth of time in herbaria. Broadly interested in herbivory and…
+</a></div>
 </div>
+<div class="metadata">
+<a href="./news/2025_09_welcome_mia.html" class="no-external">
+<div class="listing-date">
+Sep 30, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1784005200000" data-listing-file-modified-sort="1793563092390" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="110">
+<div class="thumbnail"><a href="./news/2026_07_prairie_invasives.html" class="no-external">
+
+<p class="card-img-top"><img src="images\articles\austin_et_al_2025_prairie_nonnatives_social.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./news/2026_07_prairie_invasives.html" class="no-external">Herbarium specimens reveal non-native spread across the tallgrass prairie over the past 130 years</a>
+</h3>
+<div class="delink listing-description"><a href="./news/2026_07_prairie_invasives.html" class="no-external">
+Patterns of invasion are almost always studied across small areas and for short time periods. In an exciting new article, we show that non-native plants of Missouri’s…<em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./news/2026_07_prairie_invasives.html" class="no-external">
+<div class="listing-date">
+Jul 14, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1782190800000" data-listing-file-modified-sort="1793563092388" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="135">
+<div class="thumbnail"><a href="./news/2026_06_23_urban_bees.html" class="no-external">
+
+<p class="card-img-top"><img src="images\articles\pho_et_al_2026_urbanization_and_bees.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./news/2026_06_23_urban_bees.html" class="no-external">Bees prefer complex gardens, bothered less by the city</a>
+</h3>
+<div class="delink listing-description"><a href="./news/2026_06_23_urban_bees.html" class="no-external">
+In a recent publication, along with other colleagues, former lab REU student Evelyn Guerrero and Adam found that across an urban-suburban-rural gradient that native bees…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./news/2026_06_23_urban_bees.html" class="no-external">
+<div class="listing-date">
+Jun 23, 2026
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+
 
 
 
