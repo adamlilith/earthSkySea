@@ -16,7 +16,7 @@ Welcome to the Global Change Conservation lab at the Missouri Botanical Garden. 
 :::
 :::
 ::: {.column width="30%"}
-## News
+## [News](news.qmd)
 
 ::: {#latest-news}
 :::

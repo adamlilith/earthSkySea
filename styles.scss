@@ -65,22 +65,25 @@ h3 {
 }
 
 #listing-latest-news .quarto-post {
-  display: block;
+  display: flex;
 }
 
 #listing-latest-news .listing-title {
   font-size: 0.9rem;
 }
 
-#listing-latest-news .thumbnail,
 #listing-latest-news .metadata,
 #listing-latest-news .listing-description {
   display: none;
 }
 
+#listing-latest-news .thumbnail {
+  display: none;
+}
+
 .welcome-copy {
   font-family: "Lora", serif;
-  font-size: 1.15rem;
+  font-size: 1.25rem;
   line-height: 1.6;
 }
 

@@ -19,10 +19,10 @@ Sytsma, J., Johnson, L., Louthan, A., Newman, E., **Smith**, A.B., Winters, H., 
 **Investigating patterns of density and distributional decline in a habitat specialist not experiencing physical-habitat loss, to inform conservation decisions**  
 Beever, E.A., Westover, M.L., **Smith**, A.B., Gerraty, F.D., Billman, P.D., and Smith, F.A.
 
-**Contrasting predictions from trailing-edge range dynamics and the theory of island biogeography: Climate drives patterns**  
-Westover, M.L., Beever, E.A., **Smith**, A.B., Gerraty, F.D., Billman, P.D., and Smith, F.A.
-
 ## Published work
+
+**Relative contributions of climatic and biogeographic processes in governing density and multi-scale distributional patterns across a trailing-edge mainland**
+Westover, M.L., Beever, E.A., **Smith**, A.B., Gerraty, F.D., Billman, P.D., and Smith, F.A. In press. _Oikos_ In press.
 
 **Effects of habitat complexity on urban bee occupancy eclipse those of urbanization and flower diversity** \[[article](<https://doi.org/10.1016/j.biocon.2026.111936>)\]  
 Pho\*, J., Davis\*, C., Kapp\*, C., Guerrero\*, E., Fogal, N.S., **Smith**, A.B., and Miller-Struttmann, N.E. 2026. _Biological Conservation_ 321:111936. \* Undergraduate authors

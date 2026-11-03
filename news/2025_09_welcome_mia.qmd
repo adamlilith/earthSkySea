@@ -1,6 +1,7 @@
 ---
 title: "Welcome, Mia!"
-date: 2026-09-30
+date: 2025-09-30
+image: "../images/people/mia_gaughan.png"
 draft: false
 ---
 :::: {.news-item-layout}
@@ -11,6 +12,6 @@ Welcome to Mia Gaughan, the newest member of the lab! Mia comes with diverse res
 
 ::: {.news-item-image}
 
-[![](../images/people/mia_gaughan.jpg){.img-fluid .rounded}]
+[![](../images/people/mia_gaughan.png){.img-fluid .rounded}]
 :::
 ::::

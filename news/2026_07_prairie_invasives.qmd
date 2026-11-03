@@ -1,5 +1,6 @@
 ---
 title: "Herbarium specimens reveal non-native spread across the tallgrass prairie over the past 130 years"
+image: "../images/articles/austin_et_al_2025_prairie_nonnatives_social.png"
 date: 2026-07-14
 draft: false
 ---

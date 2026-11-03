@@ -12,6 +12,8 @@ website:
         text: People
       - href: mentoring.qmd
         text: Mentoring
+      - href: news.qmd
+        text: News
       - href: research.qmd
         text: Research
       - href: publications.qmd
