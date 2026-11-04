@@ -1,0 +1,20 @@
+---
+title: "Herbivory destabilizes plant intraspecific diversity (congrats, Mia!)"
+date: 2026-08-07
+image: "../images/articles/gaughan_et_al_2026_herbivory_vs_polymorphism.jpg"
+draft: false
+---
+:::: {.news-item-layout}
+::: {.news-item-text}
+
+Congratulations to Mia, who published the results of an undergraduate research project on how herbivory can destabilize plant polymorphism. Typically, it is expected that negative frequency dependence will maintain polymorphism in plant populations, but this study shows that herbivory can disrupt this stabilizing process.
+
+**Herbivory weakens the stability of a floral polymorphism** [[article](https://doi.org/10.1086/742256)]<br>
+Gaughan, M.K., Pan, V.S., Martin-Eberhardt, S., Wetzel, W.C., and Gilbert, K.J. 2026. *American Naturalist* 208:385-395.
+:::
+
+::: {.news-item-image}
+
+[![](../images/articles/gaughan_et_al_2026_herbivory_vs_polymorphism.jpg){.img-fluid .rounded}](https://doi.org/10.1086/742256)
+:::
+::::
