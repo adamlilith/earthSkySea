@@ -6,7 +6,7 @@ project:
     - images/shaw_nature_reserve.JPG
 
 website:
-  title: "The Global Change Conservation Lab<br>at the Missouri Botanical Garden"
+  title: "The Global Change Conservation Lab <br>at the Missouri Botanical Garden"
   navbar:
     left:
       - href: people.qmd
