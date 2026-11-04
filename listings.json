@@ -1,7 +1,8 @@
 [
   {
-    "listing": "/news.html",
+    "listing": "/index.html",
     "items": [
+      "/news/2026_08_07_herbivory_vs_polymorphism.html",
       "/news/2026_07_prairie_invasives.html",
       "/news/2026_06_23_urban_bees.html",
       "/news/2026_05_biodiversity_data_from_community.html",
@@ -15,8 +16,9 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/news.html",
     "items": [
+      "/news/2026_08_07_herbivory_vs_polymorphism.html",
       "/news/2026_07_prairie_invasives.html",
       "/news/2026_06_23_urban_bees.html",
       "/news/2026_05_biodiversity_data_from_community.html",
