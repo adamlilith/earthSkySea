@@ -3,7 +3,7 @@ project:
   resources:
     - CNAME
     - images/yellowstone_blue.jpg
-    - images/shaw_nature_reserve.JPG
+    - images/shaw_nature_reserve.jpg
 
 website:
   title: "The Global Change Conservation Lab <br>at the Missouri Botanical Garden"
