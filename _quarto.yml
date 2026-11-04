@@ -7,6 +7,7 @@ project:
 
 website:
   title: "The Global Change Conservation Lab <br>at the Missouri Botanical Garden"
+  favicon: images/favicon.png
   navbar:
     left:
       - href: people.qmd
