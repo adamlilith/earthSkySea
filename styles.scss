@@ -66,10 +66,12 @@ h3 {
 
 #listing-latest-news .quarto-post {
   display: flex;
+  margin-bottom: 0.4rem;
 }
 
 #listing-latest-news .listing-title {
   font-size: 0.9rem;
+  line-height: 1.2;
 }
 
 #listing-latest-news .metadata,
@@ -126,7 +128,7 @@ h3 {
 
 .home-hero h2 {
   margin-top: 0;
-  font-size: 1.35rem;
+  font-size: 1.15rem;
   font-weight: 400;
 }
 

@@ -4,7 +4,7 @@ listing:
   - id: latest-news
     contents: news
     type: default
-    max-items: 3
+    max-items: 4
     sort: "date desc"
 ---
 
