@@ -9,7 +9,7 @@ Our lab advances conservation biogeography by reconstructing species' past respo
 ::: {.research-copy}
 ## PROTECT: Understanding and Forecasting Threats to Biodiversity
 
-Across all of our research themes, the primary one is understanding how we can protect life on Earth. We use a wide array of methods to do this, from predictive modeling to textual analysis.
+Across our research themes, the primary one is understanding how we can protect life on Earth. We use a wide array of methods to do this, from predictive modeling to textual analysis.
 
 Examples: [threats to rare plants](https://doi.org/10.1016/j.biocon.2016.10.009) · [climate-smart renewable energy siting](https://doi.org/10.1038/s41558-024-01941-3) · [urban bees](https://doi.org/10.1016/j.biocon.2026.111936)
 :::
