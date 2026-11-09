@@ -7,6 +7,7 @@ project:
 
 website:
   title: "The Global Change Conservation Lab <br>at the Missouri Botanical Garden"
+  site-url: https://earthskysea.org
   favicon: images/favicon.png
   navbar:
     left:
@@ -25,3 +26,4 @@ website:
 format:
   html:
     theme: styles.scss
+    canonical-url: true
