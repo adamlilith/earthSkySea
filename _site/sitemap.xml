@@ -1,27 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://earthskysea.org/index.html</loc>
-    <lastmod>2026-11-06T15:41:31.056Z</lastmod>
+    <loc>https://earthskysea.org/tools_and_data.html</loc>
+    <lastmod>2026-11-13T05:05:08.432Z</lastmod>
   </url>
   <url>
-    <loc>https://earthskysea.org/mentoring.html</loc>
-    <lastmod>2026-11-09T18:07:41.898Z</lastmod>
+    <loc>https://earthskysea.org/publications.html</loc>
+    <lastmod>2026-11-13T05:02:31.085Z</lastmod>
   </url>
   <url>
     <loc>https://earthskysea.org/news.html</loc>
     <lastmod>2026-11-03T05:01:58.104Z</lastmod>
   </url>
   <url>
+    <loc>https://earthskysea.org/news/2026_07_prairie_invasives.html</loc>
+    <lastmod>2026-11-03T05:01:58.109Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/news/2026_05_biodiversity_data_from_community.html</loc>
+    <lastmod>2026-11-03T05:01:58.108Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/news/2026_03_30_fasterRaster.html</loc>
+    <lastmod>2026-11-03T05:01:58.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/news/2025_09_welcome_mia.html</loc>
+    <lastmod>2026-11-03T05:01:58.106Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/news/2025_06_california_pika_gap.html</loc>
+    <lastmod>2026-11-04T23:16:33.233Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/mentoring.html</loc>
+    <lastmod>2026-11-09T18:07:41.898Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/blog/how_to_write_a_scientific_paper.html</loc>
+    <lastmod>2026-11-04T23:16:33.233Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/index.html</loc>
+    <lastmod>2026-11-24T19:10:43.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/news/2025_04_most_cited.html</loc>
+    <lastmod>2026-11-04T23:16:33.233Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/news/2025_08_practitioners_on_solar_vs_biodiversity.html</loc>
+    <lastmod>2026-11-03T05:01:58.106Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/news/2026_02_small_mammals_thermophilization.html</loc>
+    <lastmod>2026-11-04T23:16:33.233Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/news/2026_04_27_neurodiversity.html</loc>
+    <lastmod>2026-11-03T05:01:58.108Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/news/2026_06_23_urban_bees.html</loc>
+    <lastmod>2026-11-04T23:16:33.233Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/news/2026_08_07_herbivory_vs_polymorphism.html</loc>
+    <lastmod>2026-11-04T23:17:15.747Z</lastmod>
+  </url>
+  <url>
+    <loc>https://earthskysea.org/people.html</loc>
+    <lastmod>2026-11-03T05:01:58.110Z</lastmod>
+  </url>
+  <url>
     <loc>https://earthskysea.org/research.html</loc>
     <lastmod>2026-11-07T02:31:04.834Z</lastmod>
-  </url>
-  <url>
-    <loc>https://earthskysea.org/publications.html</loc>
-    <lastmod>2026-11-03T05:01:58.111Z</lastmod>
-  </url>
-  <url>
-    <loc>https://earthskysea.org/tools_and_data.html</loc>
-    <lastmod>2026-11-03T05:01:58.113Z</lastmod>
   </url>
 </urlset>
