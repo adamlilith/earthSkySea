@@ -6,7 +6,7 @@ project:
     - images/shaw_nature_reserve.jpg
 
 website:
-  title: "The Global Change Conservation Lab <br>at the Missouri Botanical Garden"
+  title: "The Global Change Conservation Computation Lab <br>at the Missouri Botanical Garden"
   site-url: https://earthskysea.org
   favicon: images/favicon.png
   navbar:

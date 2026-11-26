@@ -46,6 +46,8 @@ Four-or-so tools I recommend for how to learn to do species distribution modelin
 
 ## Software
 
+Better living, through software we authored and maintain.
+
 ::: {.software-entry}
 ::: {.software-entry-image}
 ![](images/software/fasterRaster.png){.img-fluid .w-100 .rounded}
